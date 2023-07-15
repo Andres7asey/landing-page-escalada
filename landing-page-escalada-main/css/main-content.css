@@ -1,0 +1,13 @@
+.main-content{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section-description{
+    display: flex;
+    margin: 50px;
+}
+
+.section-title{
+    display: flex;
+}

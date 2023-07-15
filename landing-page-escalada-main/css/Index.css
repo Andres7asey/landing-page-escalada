@@ -1,0 +1,13 @@
+@import './navbar.css';
+@import './wrapper.css';
+
+
+:root{
+    --black: #202020;
+    --white: #FFFFFF;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
